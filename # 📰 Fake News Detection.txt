@@ -1,0 +1,22 @@
+# 📰 Fake News Detection
+
+This project uses Natural Language Processing and Machine Learning to classify news articles as real or fake.
+
+## 🚀 Features
+- NLP with TF-IDF/CountVectorizer
+- Classification using Logistic Regression / Naive Bayes
+- Accuracy metrics and model evaluation
+
+## 📂 Dataset
+The dataset is too large to upload to GitHub.  
+Download it from [this Kaggle link](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset) and place it in a folder called `/data`.
+
+## ▶️ How to Run
+1. Clone this repo
+2. Download the dataset into `/data`
+3. Run the training script:  
+
+
+## 🔧 Tech Stack
+Python, scikit-learn, Pandas, NLP, Machine Learning
+
